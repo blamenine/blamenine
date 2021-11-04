@@ -1,4 +1,4 @@
-### Hi there 👋
+![takt-op-destiny-cosette](https://user-images.githubusercontent.com/87019549/140312162-c8319be0-a15c-4711-b256-d7b206423e06.gif)
 
 <!--
 **blamenine/blamenine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
